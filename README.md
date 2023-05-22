@@ -1,4 +1,4 @@
-> 💡 My contribution in this fork is a more straight forward Dockerfile for GPU usage with [`t2v-transformers-models`](https://github.com/weaviate/t2v-transformers-models).
+> 💡 My contribution in this fork is a more straight forward Dockerfile (`gpu.Dockerfile`) for GPU usage with [`t2v-transformers-models`](https://github.com/weaviate/t2v-transformers-models).
 
 # transformers inference (for Weaviate)
 
